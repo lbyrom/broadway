@@ -26,6 +26,11 @@ p {
   font-size: 14px;
 }
 
+.btn-nav {
+font-size: 18px;
+color: white; 
+}
+
 .ny h1 {
   font-size: 23px;
   font-weight: bold;
@@ -38,8 +43,4 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
-}
-
-.footer-nav {
-  color: white;
 }
